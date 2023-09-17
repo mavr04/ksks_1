@@ -1,0 +1,2 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\mavr\source\ksks\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(2,10): fatal  error C1083: Не удается открыть файл включение: portaudio.h: No such file or directory,

@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+C:\Users\mavr\source\ksks\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(102,49): warning C4101: e: неиспользованная локальная переменная
+     Создается библиотека C:\Users\mavr\source\ksks\ConsoleApplication1\x64\Debug\UnitTest1.lib и объект C:\Users\mavr\source\ksks\ConsoleApplication1\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\mavr\source\ksks\ConsoleApplication1\x64\Debug\UnitTest1.dll
