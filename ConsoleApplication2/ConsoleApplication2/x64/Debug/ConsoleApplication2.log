@@ -1,0 +1,4 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\mavr\source\ksks\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(37,26): warning C4244: =: преобразование "SOCKET" в "int", возможна потеря данных
+C:\Users\mavr\source\ksks\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(57,44): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  ConsoleApplication2.vcxproj -> C:\Users\mavr\source\ksks\Proj2\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
